@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-body, html {
+body{
   height: 100%;
   display: flex;
   justify-content: center;
